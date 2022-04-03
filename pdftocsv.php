@@ -5,6 +5,7 @@ error_reporting(E_ALL);*/
 
 /**
  * @file
+ * Thank you Zeshan Ziya and Amit Shriwardhankar
  */
 $tmp_file_path = "/tmp";
 $file_key = strip_tags($_REQUEST['file_key']);

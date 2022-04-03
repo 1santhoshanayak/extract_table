@@ -1,6 +1,5 @@
 ## pdf_table_extract
-The python script for extracting table from pdf file to csv file
-Working with Debian 10
+The python script for extracting table from pdf file to csv file on Debian 10, apache and php are already installed
 
 ## installation
 run ./insatll.sh as root
@@ -11,7 +10,7 @@ In browser open http://localhost/pdftocsv.php
 
 ![image](https://user-images.githubusercontent.com/36220505/161422988-7cff89f6-5b5e-47d2-8607-d8ba28b3a0e6.png)
 
-Browse and select the file and enter pdf page number eg: 9,9-12 etc
+Browse and select the file and enter pdf page number eg: 9,9-12 etc. If all pages need to converted to CSV then do not add any value in page number.
 
 ![image](https://user-images.githubusercontent.com/36220505/161423003-e73b89dc-eca2-4bc4-8caa-87775e793aeb.png)
 

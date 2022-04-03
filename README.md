@@ -9,16 +9,18 @@ copy master.py pdftocsv.php to webroot eg: /var/www/html
 
 In browser open http://localhost/pdftocsv.php
 
-![image](https://user-images.githubusercontent.com/36220505/161422763-760ea701-d386-4e95-a812-646f6b013916.png)
+![image](https://user-images.githubusercontent.com/36220505/161422988-7cff89f6-5b5e-47d2-8607-d8ba28b3a0e6.png)
 
 Browse and select the file and enter pdf page number eg: 9,9-12 etc
 
-![image](https://user-images.githubusercontent.com/36220505/161422883-cd564126-97cf-493e-afa7-f7249111fc1f.png)
+![image](https://user-images.githubusercontent.com/36220505/161423003-e73b89dc-eca2-4bc4-8caa-87775e793aeb.png)
 
 click on submit
 
-![image](https://user-images.githubusercontent.com/36220505/161422904-3371ea65-8fa5-487c-9c4b-b2c88fd01be8.png)
+![image](https://user-images.githubusercontent.com/36220505/161423020-23696ca8-35f2-459e-ac9e-e1c9051e2211.png)
 
-![image](https://user-images.githubusercontent.com/36220505/161422916-1de004a1-f794-485b-a68d-c68ab7491ac8.png)
+The page will do auto-refresh, wait for completion message
 
-![image](https://user-images.githubusercontent.com/36220505/161422934-81535e10-94e1-4df7-b68b-5ea287e8e097.png)
+![image](https://user-images.githubusercontent.com/36220505/161423157-d9dd91fe-cc3d-4e3f-95f6-a444259134c5.png)
+
+click on ok and download CSV file

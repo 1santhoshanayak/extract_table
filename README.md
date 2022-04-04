@@ -1,6 +1,10 @@
 ## pdf_table_extract
 The python script for extracting table from pdf file to csv file on Debian 10, apache and php are already installed
 
+modify below values based on your file upload size on php.ini and restart apache
+upload_max_filesize = 2M
+post_max_size = 8M
+
 ## installation
 run ./insatll.sh as root
 
